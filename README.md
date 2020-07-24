@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### How to Install and Run###
+1. Clone or download the repo.
+2. Open folder in preferred editor.
+3. Open folder in terminal and install packages using the command "npm install"
 
 ## Available Scripts
 
